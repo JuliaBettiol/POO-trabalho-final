@@ -1,0 +1,3 @@
+Professor|nome: Edson Moreno , Identificador:26178976, Carga Horaria: 30
+Professor|nome: Vanessa Regina , Identificador:71982646, Carga Horaria: 45
+Professor|nome: Maurilio , Identificador:46192643, Carga Horaria: 12

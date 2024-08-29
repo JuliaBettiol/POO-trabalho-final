@@ -1,0 +1,3 @@
+Aluno|nome: Thomaz Szeckir , Identificador:290163005, Curso: Engenharia, Semestre: 1 || Disciplina:Lógica, Carga Horaria: 2
+Aluno|nome: Joao Pedro , Identificador:10283440, Curso: Educacao Fisica, Semestre: 8 || Disciplina:Calculo II, Carga Horaria: 2
+Aluno|nome: Joao Pedro , Identificador:10283440, Curso: Educacao Fisica, Semestre: 8 || Disciplina:Lógica, Carga Horaria: 2

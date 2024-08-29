@@ -1,0 +1,3 @@
+Disciplina:POO, Carga Horaria: 2
+Disciplina:Lógica, Carga Horaria: 2
+Disciplina:Calculo II, Carga Horaria: 2

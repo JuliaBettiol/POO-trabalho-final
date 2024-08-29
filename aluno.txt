@@ -1,0 +1,4 @@
+Aluno|nome: Júlia Bettiol , Identificador:23102448, Curso: Ciencias da computacao, Semestre: 2
+Aluno|nome: Helena Bettiol , Identificador:26539776, Curso: Nutricao, Semestre: 3
+Aluno|nome: Thomaz Szeckir , Identificador:290163005, Curso: Engenharia, Semestre: 1
+Aluno|nome: Joao Pedro , Identificador:10283440, Curso: Educacao Fisica, Semestre: 8
